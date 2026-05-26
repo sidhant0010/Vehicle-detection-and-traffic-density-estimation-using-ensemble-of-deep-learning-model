@@ -1,0 +1,2 @@
+# Vehicle-detection-and-traffic-density-estimation-using-ensemble-of-deep-learning-model
+Ensemble deep learning system combining YOLOv8 &amp; Faster R-CNN to detect and classify vehicles from live traffic video streams. Applies CLAHE and dehazing for weather robustness, uses weighted density estimation by vehicle class and road occupancy — not naive counting — and dynamically adjusts traffic signal timings in real time.
